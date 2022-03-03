@@ -1,3 +1,5 @@
+package com.ssl.client.hotel;
+
 public class HouseMain {
     public static void main(String[] args) {
         double size = 100;
