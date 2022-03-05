@@ -27,6 +27,7 @@ public class Money {
 
                 ", invest=" + invest +
                 "||| old=" + old +
+
                 ", allNum=" + allNum +
                 '}';
     }
