@@ -61,5 +61,6 @@ public class People {
             System.out.print((i+24)+"岁：");
             System.out.println(arr[i].toString());
         }
+        scanner.close();
     }
 }
