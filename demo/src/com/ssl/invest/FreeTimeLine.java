@@ -1,12 +1,11 @@
 package com.ssl.invest;
 
-import java.text.DecimalFormat;
-import java.util.Scanner;
+//import java.text.DecimalFormat;
 
 public class FreeTimeLine {
     public static void main(String[] args) {
         //Scanner scanner = new Scanner(System.in);
-        DecimalFormat df   = new DecimalFormat("######0");
+        //DecimalFormat df   = new DecimalFormat("######0");
         System.out.print("\t\t\t"+"|");
         for (int i = 0; i < 12; i++) {
 
